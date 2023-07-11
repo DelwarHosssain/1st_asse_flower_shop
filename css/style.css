@@ -206,15 +206,15 @@ font-size: medium;
     margin-top: 30px;
 }
 .photo img{
-    width: 200px;
+    width: 220px;
     height: 250px;
     margin: 10px;
 }
 .form_section{
     background-image: url("/Flower\ Asset/Rectangle 9.png");
-    width: 860px;
+    width: 940px;
     height: 250px;
-    margin:50px 110px;
+    margin:50px 70px;
 }
 .form_main_header{
     text-align: center;
