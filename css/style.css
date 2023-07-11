@@ -56,8 +56,62 @@ font-size: medium;
 /* banner end*/
 
 /* main strat */
+.main_part{
+    margin-top: 100px;
+}
+.main_part_one{
+    text-align: center;
+}
+.main_head{
+    color: #272727;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
 
+}
 
+.main_parag{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding:0 250px;
+    margin-top: 20px;
+}
+.total_flowars{
+    display: flex;
+    justify-content: center;
+    margin:100px 0;
+    
 
+}
+.main_flowers1{
+    width: 300px;
+    height: 400px;
+    border-radius: 300px 300px 0px 0px;
+    background:#f2dee7;
+    margin-right:20px ;
 
-/* banner end*/
+}
+.main_flowers2{
+    width: 300px;
+    height: 400px;
+    border-radius: 300px 300px 0px 0px;
+    background: #d9eff1;
+    
+
+}
+.main_flowers3{
+    width: 300px;
+    height: 400px;
+    border-radius: 300px 300px 0px 0px;
+    background:#e3ebdb;
+    margin-left: 20px;
+}
+.flo_image{
+    width: 194px;
+    height: 371px;
+    margin:30px 0 0px 50px;
+}
+/* main  end*/
