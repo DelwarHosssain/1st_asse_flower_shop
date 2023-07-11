@@ -77,7 +77,7 @@ font-size: medium;
     font-weight: 400;
     line-height: 30px;
     padding:0 250px;
-    margin-top: 20px;
+    margin-top: px;
 }
 .total_flowars{
     display: flex;
@@ -184,11 +184,37 @@ font-size: medium;
     height: 250px;
     margin: 10px;
 }
-
-.form_img{
+.form_section{
+    background-image: url("/Flower\ Asset/Rectangle 9.png");
     width: 860px;
     height: 250px;
     margin:50px 110px;
-    
+}
+.form_main_header{
+    text-align: center;
+    padding-top: 70px;
+}
+#form_email{
+    padding:7px 60px;
+}
+.common_button2{
+    border: none;
+    background-color: #e55473;
+    padding: 6px 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: medium;
 }
 /* main  end*/
+/* footer  start*/
+.footer-bg{
+    width: 100%;
+    height: 400px;
+    background: #111010;
+    text-align: center;
+    color: #fff;
+    padding:30px 60px;
+
+}
+
+/* footer  end*/
