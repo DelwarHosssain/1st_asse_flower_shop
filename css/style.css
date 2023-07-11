@@ -4,6 +4,32 @@
     font-family: 'Lato', sans-serif;
 
 }
+.nav_head{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 30px;
+    background-color: #fceef1;
+
+}
+.web_name{
+    margin-left: 60px;
+    margin-top: 5px;
+    color: #e55473;
+}
+.menu li{
+    list-style: none;
+    display: inline;
+    margin-right: 60px;
+    margin-top: 5px; 
+    color: #e55473;
+    border-radius: 4px; 
+}
+.menu li:hover{
+    background-color: #ffff;
+    padding: 10px;
+}
+
 /* banner strat */
 .banner{
     display: flex;
