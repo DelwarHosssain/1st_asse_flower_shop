@@ -211,7 +211,7 @@ font-size: medium;
     margin: 10px;
 }
 .form_section{
-    background-image: url("/Flower\ Asset/Rectangle 9.png");
+    background-image: url('/Flower\ Asset/Rectangle 9.png');
     width: 940px;
     height: 250px;
     margin:50px 70px;
