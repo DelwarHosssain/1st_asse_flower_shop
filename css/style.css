@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+/* banner strat */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fceef1;
+    width: 100%;
+    height: 850px;
+    align-items: center;
+}
+
+.banner_part1{
+    margin:151px 20px 0px 60px;
+
+}
+.banner_head{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+}
+.banner_prag    {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 32px;
+
+}
+
+.common_button{
+border: none;
+background-color: #e55473;
+padding: 20px 43px;
+margin-top:32px;
+border-radius: 8px;
+color: #fff;
+font-size: medium;
+
+}
+
+.banner_part2{
+    margin:151px 60px  0px 20px;
+    
+    
+}
+.banner_img{
+    width: 535px;
+    height: 700px;
+}
+/* banner end*/
+
+/* main strat */
+
+
+
+
+/* banner end*/
